@@ -1,2 +1,2 @@
-# HowDoILook-
+# HowDoILook?
 LLM based fashion project
